@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0b5f922.css",
+    "main.js": "/static/js/main.335e3e1a.js",
+    "static/media/SAA2.png": "/static/media/SAA2.a060d776641c8ed19133.png",
+    "static/media/pitb.png": "/static/media/pitb.12c89b5719918b3936e4.png",
+    "static/media/bic.png": "/static/media/bic.61d568fb32dc1eb79910.png",
+    "static/media/yousaf ijaz.png": "/static/media/yousaf ijaz.273283e724237cf3b213.png",
+    "static/media/gcu-min.png": "/static/media/gcu-min.f9aa36053ffc7729d947.png",
+    "static/media/plan9.png": "/static/media/plan9.0c7d862f974f1a325ad2.png",
+    "static/media/double-dose-productivity-png.png": "/static/media/double-dose-productivity-png.d534a7fd9ea0b977e1ef.png",
+    "static/media/cf-logo.jpg.png": "/static/media/cf-logo.jpg.0d318510c211eab970da.png",
+    "static/media/uet.png": "/static/media/uet.5f4ee351c6e333de7f88.png",
+    "static/media/final logo ymt upload black.png": "/static/media/final logo ymt upload black.bdfa3d1585dc10be3110.png",
+    "static/media/prooductivity.png": "/static/media/prooductivity.8f4865b83a5650b0a574.png",
+    "static/media/success-coaching-session.png": "/static/media/success-coaching-session.1367f6f11d55f029281c.png",
+    "static/media/whatsappicon.png": "/static/media/whatsappicon.c339ff504121f060e736.png",
+    "static/media/sussess-coaching.png": "/static/media/sussess-coaching.ec4480a9b7a7af8648b2.png",
+    "static/media/erasing-painful-memories.png": "/static/media/erasing-painful-memories.fca9f79653c422d81f4c.png",
+    "static/media/wellness-coaching.png": "/static/media/wellness-coaching.57bff160e1b63f02f17b.png",
+    "static/media/productivity-3.png": "/static/media/productivity-3.b15c532145f336cd0f18.png",
+    "static/media/reshape-your-life.png": "/static/media/reshape-your-life.9c5c7a5540a0f783ee79.png",
+    "static/media/wellnness-coaching-session.png": "/static/media/wellnness-coaching-session.aa335f4a8b220b2d1bfc.png",
+    "static/media/wellness-3.png": "/static/media/wellness-3.268f0c2f2362531a1233.png",
+    "static/media/productivity-2.png": "/static/media/productivity-2.6c2f43d5d8f6c971f611.png",
+    "static/media/wellness-2.png": "/static/media/wellness-2.7ed0988fe30b41eeb404.png",
+    "index.html": "/index.html",
+    "main.e0b5f922.css.map": "/static/css/main.e0b5f922.css.map",
+    "main.335e3e1a.js.map": "/static/js/main.335e3e1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0b5f922.css",
+    "static/js/main.335e3e1a.js"
+  ]
+}
